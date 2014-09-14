@@ -1,0 +1,12 @@
+# Site settings
+title: Pauline's something-or-other
+email: pauline@barmby.ca
+description: > # this means to ignore newlines until "baseurl:"
+  Random thoughts from a random astrophysicist.
+baseurl: "" # the subpath of your site, e.g. /myblog/
+url: "http://PBarmby.github.io" # the base hostname & protocol for your site
+twitter_username: PBarmby
+github_username:  PBarmby
+
+# Build settings
+markdown: kramdown
