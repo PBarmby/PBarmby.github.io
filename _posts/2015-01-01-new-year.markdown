@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "New year, new blog"
+date:   2015-01-01
+categories: reflection plans
+---
+
+Probably a cliche to start a new blog on New Year's Day, but oh well.
+
+January 1, 2015 marks the start of my sabbatical, which seems like as good a time as
+any to start trying to blog more regularly. I expect this blog will be mostly related
+to my professional interests, since my personal interests are likely not of interest
+to that many people.
+
+So, what am I planning to do on my sabbatical? Well, research of course. I need to
+finish up a couple of papers started-but-not-quite-finished by MSc students. I want
+to work with my current grad students on their projects. I also want to do some
+work on my own, in particular figuring out how to better organize and analyze 
+observations of nearby galaxies. More on this later. I am contemplating whether
+to propose a [Gemini Large Program](http://www.gemini.edu/sciops/observing-gemini/observing-modes/large-and-long-programs),
+something I never felt that I had time for before. But I suppose I should reduce
+my 2013 data first!
+
+I also plan quite a bit of reflection. The first order of business is to do
+some reflection on the courses I've just finished teaching; watch this space for that.
+Then I want to think hard about my future career direction. Being a professor is 
+a job with a lot of potential to do good in the world, and I want to figure out how
+to best apply my efforts to that end. Are my talents, such as they are, best applied
+in research, teaching, administration, or something else? I'm planning to talk to
+folks with different positions inside and outside academia, some of whom I expect
+I'll meet through [Software Carpentry](http://www.software-carpentry.org) and also
+through an effort to read more blogs. I want to know what they (dis)like about their positions
+and how they got there. I hope this will help clarify my own goals.
+
+I wish you a wonderful 2015!
