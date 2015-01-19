@@ -1,6 +1,6 @@
 # Site settings
 title: Pauline's perambulations and permutations
-email: pauline@barmby.ca
+email: pbarmby@uwo.ca
 description: > # this means to ignore newlines until "baseurl:"
   Random thoughts from a random astrophysicist.
 baseurl: "" # the subpath of your site, e.g. /myblog/
