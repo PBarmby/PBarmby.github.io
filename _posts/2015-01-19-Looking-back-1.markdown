@@ -24,7 +24,7 @@ The goals of the course are to:
 * develop students' problem-solving skills 
 
 Of course there is a [course outline](http://www.physics.uwo.ca/graduate/pdf_files/Fall%202014%20Course%20Outlines/outline_ast9610_2014final.pdf)
-and detailed list of specific [learning objectives](objectives_2014_final.pdf). 
+and detailed list of specific [learning objectives](/myblog/objectives_2014_final.pdf). 
 These are aligned with our expectations for
 the PhD comprehensive exam. Typically the course has about 10
 students, about half to two-thirds with some astronomy background.
