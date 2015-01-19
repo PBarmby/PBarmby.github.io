@@ -25,6 +25,7 @@ The goals of the course are to:
 
 Of course there is a [course outline](http://www.physics.uwo.ca/graduate/pdf_files/Fall%202014%20Course%20Outlines/outline_ast9610_2014final.pdf)
 and detailed list of specific [learning objectives](/myblog/objectives_astr9610_2014_final.pdf). 
+(*Later edit: my colleagues Aaron Sigut and Els Peeters both contributed to both of these.*)
 These are aligned with our expectations for
 the PhD comprehensive exam. Typically the course has about 10
 students, about half to two-thirds with some astronomy background.
@@ -117,3 +118,8 @@ has subsequently failed our program's PhD comprehensive exam. (Students who do
 poorly in the course typically don't go on to the PhD.) I would still like
 the instructor's role in the course to be more "guide on the side" than "sage on the stage"
 but perhaps this is unrealistic in a course meant for students just out of undergrad.
+
+*Appendix: I [mused on Twitter](https://twitter.com/PBarmby/status/556830275343106050) about making the course materials available for others to use,
+and got a positive response, so I'll do that once I figure out the least painful method.
+In the meantime, [Universe in Problems](http://universeinproblems.com/index.php/Main_Page)
+is one place that covers some of the course material at the graduate level.*
