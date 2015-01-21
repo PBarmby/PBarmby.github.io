@@ -6,11 +6,11 @@ tags: coding tools
 ---
 
 I'm trying to add some new tools to my toolbox this year. Here's
-what I'm thinking about
+what I'm thinking about:
 
-* [Jekyll](http://jekyllrb.com) used for this [GitHub Pages](https://pages.github.com) blog among other things. Actually I'm not sure I really want 
+* [Jekyll](http://jekyllrb.com): used for this [GitHub Pages](https://pages.github.com) blog among other things. Actually I'm not sure I really want 
 tinker with Jekyll, I just want it to work.
-* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) again used for this blog, but also used just for GitHub stuff in general. Although I didn't realize it until recently, I first used Markdown on [http://www.ravelry.com](Ravelry)!
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): again used for this blog, but also used just for GitHub stuff in general. Although I didn't realize it until recently, I first used Markdown on [Ravelry](http://www.ravelry.com)!
 * [Git/GitHub](https://try.github.io/levels/1/challenges/1) -- I already use these but think I can get more fluent.
 * [Astropy](http://astropy.org) -- I have dabbled with some of the astropy modules, but hope to make it part of my regular workflow, and maybe even to make some [contributions](http://astropy.readthedocs.org/en/latest/development/workflow/development_workflow.html).
 * [Pandas](http://pandas.pydata.org) -- have also used this a little bit, but I think there's a lot more that can be done with it. Maybe not so much for astronomy, but I think it could be really useful for analyzing data related to teaching once that starts again.
