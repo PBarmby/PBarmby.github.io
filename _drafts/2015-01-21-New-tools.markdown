@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New tools"
+date:   2015-01-21
+tags: coding tools
+---
+
+I'm trying to add some new tools to my toolbox this year. Here's
+what I'm looking at:
+
+* [Jekyll](http://jekyllrb.com) - [GitHub Pages](https://pages.github.com)
+* [Markdown]()
+* [Astropy](http://astropy.org) -- I have dabbled with some of the astropy modules, but hope to make it part of my regular workflow, and maybe even to make some [contributions]().
+* [Pandas]() -- have also used this a little bit, but I think there's a lot more that can be done with it.
+* [R]()
+* [GIS]() -- I want to figure out how to keep better track of global and local properties of (things within) nearby galaxies. Maybe geographers have some tricks we can borrow for astronomy.
