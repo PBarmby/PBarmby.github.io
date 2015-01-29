@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Astrogeographic information systems"
+date:   2015-01-28
+tags: research
+---
+Playing around with [Storify](http://storify.com). Because why write a blog post when you can just recycle your tweets?
+
+<script src="//storify.com/PBarmby/astrogeographic-information-systems.js?header=false&border=false"></script><noscript>[<a href="//storify.com/PBarmby/astrogeographic-information-systems" target="_blank">View the story "Astrogeographic information systems" on Storify</a>]</noscript>
+
+Well, that was fun (both the GIS workshop and Storify-ing it). I think I see some possibilities here for using GIS in astronomy. More to come.
+
