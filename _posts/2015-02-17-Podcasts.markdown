@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Podcasts"
+date:   2015-02-17
+tags: research teaching academia
+---
+
+I hear that [Serial](http://serialpodcast.org) got a lot of people interested in podcasts.
+I've been a podcast listener for a long time, probably close to a decade now. In the
+[Physics & Astronomy blog](http://blog.physics.uwo.ca) several years back I listed some of my favorite
+[science podcasts](http://blog.physics.uwo.ca/science-podcasts/) and
+[physics or astronomy](http://blog.physics.uwo.ca/physics-astronomy-podcasts/) ones;
+I still listen to many of these.
+
+The science podcasts listed above can mostly be categorized as "science journalism" --
+that is, they involve research or other science happenings being explained to
+non-scientists. But what about podcasts for scientists, by scientists? Podcasts
+where people talk about what they're working on, the tips they have for others
+so they don't make the same mistakes? Maybe I listen to too many knitting podcasts
+where this style is pretty common, but I haven't yet found it in the science podcast world.
+The closest so far:
+
+* [Scientists not the Science](http://www.stuartgregoryhiggins.com/scinotsci), a "podcast about people working in and with the scientific world"
+* [People Behind the Science](http://www.peoplebehindthescience.com/), a "journey through the lives and minds of today's brilliant scientists"
+* [Story Collider](http://storycollider.org/podcast), personal stories about science
+
+
+Podcasts about university-level teaching, especially teaching science, are rare too. I've found:
+
+* [Teaching and Learning Matters](http://teaching.uncc.edu/learning-resources/podcasts) - produced by a university
+teaching & learning center, not science-specific
+* [Teaching in Higher Ed](http://teachinginhighered.com/episodes/) - no catch phrase but looks interesting, , not science-specific
+* [Lab out Loud](http://laboutloud.com/) - "science for the classroom and beyond"
+* [Learning about Teaching Physics](http://learningaboutteachingphysics.podomatic.com/) -- no new episodes,
+but the old ones were good..
+
+Comments on other podcasts are welcome, just as soon as I figure out how to turn comments on..
+please tweet at me in the meantime!
