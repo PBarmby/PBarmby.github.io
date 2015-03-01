@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Astronomy labs"
-date:   2015-02-24
+date:   2015-03-01
 tags: reflection teaching
 ---
 
 I posted [earlier]({% post_url 2015-02-24-Looking-back-2 %}) about some reflections on 
 fall 2014's [Astronomy 2022: The Origin of the Universe](http://www.westerncalendar.uwo.ca/2014/pg889.html#33722).
 In that post, I mentioned using
-[Astronomy Labs: A Concept Oriented Approach](http://www.pearsonhighered.com/educator/product/Astronomy-Labs-A-Concept-Oriented-Approach/9780321861771.page) by [Emily Rice](http://about.me/emilyrice] and [Nate McCrady](http://cas.umt.edu/physics/classes/Nate/).
+[Astronomy Labs: A Concept Oriented Approach](http://www.pearsonhighered.com/educator/product/Astronomy-Labs-A-Concept-Oriented-Approach/9780321861771.page) by [Emily Rice](http://about.me/emilyrice) and [Nate McCrady](http://cas.umt.edu/physics/classes/Nate/).
 Emily asked me for some more details about how I used the labs in a large class,
 so here they are.
 
