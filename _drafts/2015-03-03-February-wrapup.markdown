@@ -5,12 +5,13 @@ date:   2015-03-03
 tags: research academia
 ---
 
-Second month of sabbatical, where did it go?
+The modern equivalent of "you don't write, you don't call" is that my Mom complains
+she has to Google-stalk me to find out what I've been up to. So Mom, here it is, the month of February 2015.
 
 I worked on revisions to the paper that came out of Dimuthu Hemachandra's MSc thesis, on 
 [PAHs in M31](http://adsabs.harvard.edu/abs/2015AAS...22542905B).
 Although Dimuthu is still around our department, he is working on another project so
-a fair bit of recalculating, etc was left with me. Paper is almost ready to go back to the
+some of the recalculating, etc was left with me. The paper is almost ready to go back to the
 remaining co-authors and I think should be re-submitted by the end of March.
 
 Also, I fretted over the condition of another paper. This is another MSc thesis project for which
@@ -41,9 +42,9 @@ This proposal is for a multi-disciplinary training program, so to make all the n
 connections I have had a lot of meetings with people about it (at least 7 in February plus several more scheduled for March). I've
 been checking out [youcanbook.me](https://gb.youcanbook.me/) as a way of scheduling these. I've also
 been spending a lot of time on [LinkedIn](http://linkedin.com) attempting to make relevant connections;
-too early yet to report on how this went. Although I sent the draft out to potential Co-Is
-mid-month with a plea for comments by the end of February, I didn't get that many comments.
-Disappointing but not terribly surprising. The deadline for the LOI is the end of March,
+too early yet to report on how this went.  I sent the draft out to potential Co-Is
+mid-month with a plea for comments by the end of February, and got some very useful comments.
+The deadline for the LOI is the end of March,
 so I expect to be spending most of the next couple of weeks on it.
 
 Together with one of my [Software Carpentry](http://software-carpentry.org) colleagues, 
@@ -70,6 +71,11 @@ work out the schedule and order of talks, and figure out where the conference di
 I did my own travel organization as well and now I have plane and train tickets
 and hotel reservations; hooray.
 
+In non-work events, I knit a [sweater](http://ravel.me/Andromeda31/5k4b9) in about 10 days, partly
+because it was cold and I wanted another sweater, and partly just to see if I could do it by working
+on one project to the exclusion of everything else. (There is probably a lesson there for the stalled paper
+mentioned above). I tried to get into a more regular exercise routine, to make sure I'd be
+ready for the [Pi Day 5k](http://pi5k.com/) virtual run which I signed up for. 
 When I started to write this, I was feeling like February had been kind of a slow month. In some ways it was;
 I didn't work too many evening or weekends. But writing it all down makes me feel like I accomplished a fair bit.
 Now if I can just write a few papers and land a million-dollar-plus grant..
