@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "MTR recap"
+date:   2015-03-26
+tags: astronomy astro-politics academia
+---
+
+So, a whole day sitting in a very cold room at the University of Toronto
+for a town hall meeting on the CASCA [Long-Range Plan Mid-Term Review](http://casca.ca/?page_id=2944).
+My impressions:
+
+For the most part I didn't learn a huge amount from the various talks, but if I had
+it would probably have been a sign that I was not keeping up in my roles as 
+[CASCA Ground-Based Astronomy Committee](http://casca.ca/?page_id=281) chair and CASCA director. Whew.
+Most of what was illuminating about the day was the discussion. The MTR panel reported some
+of what had gone on at the previous day's meeting in Montreal, which included representation from
+the [Canadian Space Agency](http://csa-asc.gc.ca). Today's meeting had a rep from [NSERC](http://www.nserc-crsng.gc.ca).
+
+Attendance was not terribly high, fewer than 30 people. Most of the non-UofT Ontario universities
+only had one or two attendees each. Granted, it's a busy time of year and the TA strike at UofT is
+likely complicating things. But it certainly would have been nice to see a few more people, particularly
+the students and postdocs who will use the facilities that get discussed in long-range plans.
+
+Women in the room were greatly outnumbered by men (3 or 4 to 1?) and tended to talk less. Small-number
+statistics and individual personalities were at work here, to be sure, but the difference was
+noticeable to me. I just realized: I think it may have been the case that the NSERC rep and I were the only female
+attendees who were not members of the [MTR panel](http://casca.ca/?page_id=2944). 
+The panel itself has decent gender balance, and most of the panel members were listening more than talking, 
+which is entirely reasonable. So maybe I should have been knitting less and talking more. Hmm.
+
+Everyone was very aware of the need to carefully justify new facilities/capabilities/etc, and I think we
+were reminded that it's good to  think hard about some of the assumptions and structures under which Canadian astronomy is run. 
+There were good discussions about the roles of various agencies, how best to distribute funding (e.g. one big project
+versus a number of small ones), and what facilities to give up if we want new ones. Hopefully the
+panel came away from their day with more ideas for today's discussion in Victoria.

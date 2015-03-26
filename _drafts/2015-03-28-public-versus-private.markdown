@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Public versus private in research and teaching"
-date:   2015-03-06
+date:   2015-03-28
 tags: reflection research teaching academia
 ---
 
