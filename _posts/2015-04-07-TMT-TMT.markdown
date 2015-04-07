@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "TMT! TMT!"
+date:   2015-04-07
+tags: astronomy telescopes
+---
+
+We got the big news last night that [Canada has signed on](http://www.theglobeandmail.com/news/national/harper-announces-243-million-contribution-for-thirty-meter-telescope-project/article23818767/) to the [Thirty Meter Telescope](http://tmt.org).
+This is exciting stuff; Canadians have been involved with the project for quite some time and have
+done quite a bit of the [preliminary design work](http://casca.ca/wp-content/uploads/2014/07/TMT_digest_2014.pdf). 
+But the only mechanism for funding such a large project in Canada is to go directly to the
+relevant federal government department, and while the [Coalition for Canadian Astronomy](http://casca.ca/?page_id=77) had been 
+working hard on making the case, it wasn't clear whether we would be able to sell the project or not.
+It's a big deal: the TMT is one of three [Extremely Large Telescopes](http://en.wikipedia.org/wiki/Extremely_large_telescope) currently
+in the planning stages. These facilities will be at the forefront of astronomical research in the 2020s and beyond.
+
+So what will Canadians get for their [quarter-billion dollars](http://www.thestar.com/news/canada/2015/04/06/stephen-harper-announces-2435-million-in-funding-for-thirty-meter-telescope.html)? Much of it will go to [Dynamic Structures](http://www.empireds.com/)
+who will build the building that holds the telescope, aka the "enclosure" or "dome". Some will go to companies building other components including the [adaptive optics system](http://www.tmt.org/observatory/adaptive-optics). And of course, for our money we also get access to telescope time, although I expect this to be extremely competitive just like [ALMA is](https://science.nrao.edu/science/meetings/aas-special-session). As the [CASCA press release](http://casca.ca/?p=5749) notes, TMT "will examine the first stars to form in the universe, the black hole at the centre of the Milky Way and the atmospheres and other properties of planets within the habitable zones of other stars." Pretty cool stuff, and as [Ray Jayawardhana noted](https://twitter.com/DrRayJay/status/585397114106159104) many of us are hoping that TMT will be an inspiration to all Canadians, not just the few who are priveleged to get to do astronomy on a regular basis.
+
+I suddenly find myself with lots more to think about. It's an exciting day!
