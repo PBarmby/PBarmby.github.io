@@ -3,6 +3,7 @@ layout: post
 title:  "A picture of my cat"
 date:   2015-01-25
 tags: test
+comments: True
 ---
 
 Trying to figure out how to do things in Jekyll. 
