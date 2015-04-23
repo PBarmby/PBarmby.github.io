@@ -15,22 +15,22 @@ Afternoon unconferences, session one:
 
 * yt tutorial (B. Smith)
 * astroquery tutorial (A. Ginsberg)
-* astropython.org reboot (T. Aldcroft)
-* credit for software development (E. Tollerud, notes [here]())
+* astropython.org reboot (T. Aldcroft, notes [here](https://docs.google.com/document/d/1jIgNreqR7EM7rD5fqCzzF1N9NA_8rwOS-aUX2dMwzQc/edit?pli=1#heading=h.zl59ytrsxwu))
+* credit for software development (E. Tollerud, tag #pyastrocred, notes [here](https://docs.google.com/document/d/1aXOQdM46gAGCJEt1LvF0zFHlq-mtaZ9HOgvOHD7gy00/edit?pli=1))
 
 
 Afternoon unconferences, session two:
 
 * Ginga visualization (E. Jeschke)
-* Photometry in python ()
-* Intro to Python packaging (E. Bray, slides [here]())
+* Photometry in python (M Craig, tag #pyastrophot, notes [here](https://docs.google.com/document/d/1EpC1Lhy3q-NfSNWPLkerfBWcugFQCBNEJat6IA5k-6k/edit?pli=1))
+* Intro to Python packaging (E. Bray, slides [here](https://docs.google.com/document/d/1EpC1Lhy3q-NfSNWPLkerfBWcugFQCBNEJat6IA5k-6k/edit?pli=1))
 
 Afternoon unconferences, session three:
 
-* Performance tutorial (M. Droettboom,)
+* Performance tutorial (M. Droettboom)
 * Pycharm tutorial (M. Metchley)
-* Making documentation easy to write (S. Mumford)
-* New reprojection module (T. Robitaille,)
+* Making documentation easy to write (S. Mumford, notes [here](https://docs.google.com/document/d/1W9H9Lof02AdLN3cSRuz1bo0e89m9AoUcQJ7TCBLaP3Q/edit?pli=1))
+* New reprojection module (T. Robitaille, see [this repo](https://github.com/astrofrog/reproject))
 
 We sang happy birthday again, for two participants this time! Hopefully most of us are better programmers than singers.
 Finally the conference dinner, which was great fun and featured ice cream with sparklers in it for dessert. As far as I know, no
