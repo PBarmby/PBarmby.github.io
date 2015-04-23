@@ -7,8 +7,7 @@ tags: astronomy Python conference
 OK, I know these blog posts are getting more terse. What can I say, it's been a busy week and I at least am getting tired.
 Despite last night being the conference dinner, nearly everyone made it to the first talk this morning. Although we were a bit quiet..
 
-The day started with contributed talks by Steve Crawford ([ccdproc](http://ccdproc.readthedocs.org/en/latest/)), Anne Archibald ([testing statistical tests](http://lighthouseinthesky.blogspot.nl/)), and Nadia Dencheva ([generalized world coordinate systems]()).
-
+The day started with contributed talks by Steve Crawford ([ccdproc](http://ccdproc.readthedocs.org/en/latest/)), Anne Archibald ([testing statistical tests](http://lighthouseinthesky.blogspot.nl/)), and Nadia Dencheva ([generalized world coordinate systems](http://gwcs.readthedocs.org/en/latest/)).
 
 After coffee: [Stuart Mumford](http://www.stuartmumford.co.uk/) of Sheffield gave an overview of the [sunpy](http://sunpy.org) project. Storify [here](https://storify.com/PBarmby/python-in-astronomy-day-4-keynote).
 
@@ -17,19 +16,13 @@ Finally lightning talks, Storified [here](https://storify.com/PBarmby/python-in-
 The afternoon unconference sessions featured less tweeting and public coverage; we were busy working on lots of
 different things, however, such as:
 
-Session one:
+Session one/two:
 
 * Python packaging and releasing, E. Bray
 * astropy modeling, E. Tollerud
 * astro-computing education (new wiki page [here](http://t.co/MPK3cc7Quj))
 * ginga collaboration sprint
 
-
-Session two:
-
-* 
-* 
-* 
 
 Session three:
 
