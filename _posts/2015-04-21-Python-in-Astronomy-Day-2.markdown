@@ -26,7 +26,7 @@ Several excited tweets about first pull requests! Here is [mine](https://github.
 Afternoon unconferences, session two:
 
 * "my first pull request" continued
-* FITS alternatives/replacements (M. Droettboom), , notes [here]()
+* FITS alternatives/replacements (M. Droettboom), notes [here]()
 * astro-Python educational resources (K. Cruz, P. Barmby), notes [here](https://docs.google.com/document/d/16C2zZ96A8pX6f_-cRyIPjW7MfGwH7B9J7CX9pO6fCwk/edit)
 
 Afternoon unconferences, session three:
