@@ -16,7 +16,9 @@ Afternoon unconferences, session one:
 * yt tutorial (B. Smith)
 * astroquery tutorial (A. Ginsberg)
 * astropython.org reboot (T. Aldcroft, notes [here](https://docs.google.com/document/d/1jIgNreqR7EM7rD5fqCzzF1N9NA_8rwOS-aUX2dMwzQc/edit?pli=1#heading=h.zl59ytrsxwu))
-* credit for software development (E. Tollerud, tag #pyastrocred, notes [here](https://docs.google.com/document/d/1aXOQdM46gAGCJEt1LvF0zFHlq-mtaZ9HOgvOHD7gy00/edit?pli=1))
+* credit for software development (E. Tollerud, tag #pyastrocred, notes [here](https://docs.google.com/document/d/1aXOQdM46gAGCJEt1LvF0zFHlq-mtaZ9HOgvOHD7gy00/edit?pli=1)). 
+
+I was at this last session and it spawned a quite interesting Twitter discussion which I will blog separately later, but if you can't wait, it starts [here](https://twitter.com/PBarmby/status/590850156804833281).
 
 
 Afternoon unconferences, session two:
