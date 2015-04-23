@@ -13,23 +13,24 @@ Finally lightning talks, Storified [here](https://storify.com/PBarmby/python-in-
 
 Afternoon unconferences, session one:
 
-*
-*
-* 
-* 
+* yt tutorial (B. Smith)
+* astroquery tutorial (A. Ginsberg)
+* astropython.org reboot (T. Aldcroft)
+* credit for software development (E. Tollerud, notes [here]())
 
 
 Afternoon unconferences, session two:
 
-* 
-* 
-* 
+* Ginga visualization (E. Jeschke)
+* Photometry in python ()
+* Intro to Python packaging (E. Bray, slides [here]())
 
 Afternoon unconferences, session three:
 
-* 
-* 
-* 
+* Performance tutorial (M. Droettboom,)
+* Pycharm tutorial (M. Metchley)
+* Making documentation easy to write (S. Mumford)
+* New reprojection module (T. Robitaille,)
 
 We sang happy birthday again, for two participants this time! Hopefully most of us are better programmers than singers.
 Finally the conference dinner, which was great fun and featured ice cream with sparklers in it for dessert. As far as I know, no
