@@ -29,7 +29,7 @@ Afternoon unconferences, session two:
 
 Afternoon unconferences, session three:
 
-* Performance tutorial (M. Droettboom)
+* Performance tutorial (M. Droettboom, slides [here](http://stsdas.stsci.edu/download/mdroe/coverage/index.html))
 * Pycharm tutorial (M. Metchley)
 * Making documentation easy to write (S. Mumford, notes [here](https://docs.google.com/document/d/1W9H9Lof02AdLN3cSRuz1bo0e89m9AoUcQJ7TCBLaP3Q/edit?pli=1))
 * New reprojection module (T. Robitaille, see [this repo](https://github.com/astrofrog/reproject))
