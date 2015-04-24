@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python in Astronomy, Day 4"
-date:   2015-04-22
+date:   2015-04-23
 tags: astronomy Python conference
 ---
 OK, I know these blog posts are getting more terse. What can I say, it's been a busy week and I at least am getting tired.
