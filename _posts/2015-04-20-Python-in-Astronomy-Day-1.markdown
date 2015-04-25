@@ -37,7 +37,7 @@ In the afternoon we had 2 unconference sessions. First session featured:
 
 then coffee, then
 
-* GitHub tutorial, led by Matt Craig. No notes but Stuart recommends this [interactive git branching tutorial](http://t.co/GymEJ2dqPP)
+* GitHub tutorial, led by Matt Craig. No notes but Matt recommends this [interactive git branching tutorial](http://t.co/GymEJ2dqPP)
 * Monte Carlo sampling methods and packages (J. Zuntz, notes [here](https://docs.google.com/document/d/1C35PzVxsip3S4oMy9Ht1ppjlDfScUdz_nBi9_gjRViY/edit))
 * Python packages for working with spectra (W. Kerzendorf)
 
