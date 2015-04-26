@@ -6,19 +6,19 @@ tags: astronomy Python conference
 ---
 
 Having not gone to the bar on Thursday night, I managed to get up early enough to go for a run around a
-small nearby lake, [Valkenberg Meer](LINK). I met workshop attendee Peter Teuben as he was setting off on a bike ride; 
+small nearby lake, Valkenberg Meer. I met workshop attendee Peter Teuben as he was setting off on a bike ride; 
 Peter took a beautiful photo of the lake in the early morning mist.
 
 ![Valkenberg Meer, credit: P. Teuben]({{ site.url }}/stuff/teuben_valkenberg.jpg)
 
-Some more of Peter's photos are [here](https://plus.google.com/u/0/photos/+PeterTeuben/albums/6141280578679475185/6141299844211048850?pid=6141299844211048850&oid=103756179659025357501). (FIX)
+Some more of Peter's photos are [here](https://plus.google.com/u/0/photos/103756179659025357501/albums/6141280578679475185). 
 
-The day started with contributed talks by Emilie Ishida ([COIN](LINK)), Matt Craig ([astropy with undergrads](LINK)), 
-and Joe Zuntz ([CosmoSIS]()). These were three very different talks, with Emilie discussing how to collaborate with statisticians,
+The day started with contributed talks by Emilie Ishida ([COIN](https://asaip.psu.edu/organizations/iaa/iaa-working-group-of-cosmostatistics)), Matt Craig ([astropy with undergrads](https://github.com/python-in-astronomy/talk_slides/blob/master/day5/craig-astropy-undergrads.pdf)), 
+and Joe Zuntz ([CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home)). These were three very different talks, with Emilie discussing how to collaborate with statisticians,
 Matt how to use astropy for both teaching and research, and Joe talking about estimating cosmological parameters with the most
 enthusiasm I have ever seen on the subject. But all super-interesting!
 
-After coffee: [Perry Greenfield]() of STScI gave an overview of the history and future of Python at the 
+After coffee: [Perry Greenfield](https://conference.scipy.org/scipy2014/speaker/profile/98/) of STScI gave an overview of the history and future of Python at the 
 Space Telescopes Science Institute, which, to my knowledge, has been the largest institutional 
 player in moving the use of Python into astronomy.
 The Storify is [here](https://storify.com/PBarmby/python-in-astronomy-day-5-keynote). This talk was less technical and 
@@ -31,9 +31,9 @@ These were not a planned part of the schedule but there were just so many things
 
 We finished the morning with a general discussion of how to preserve the week's work and move forward. Ideas for preserving the week's work include
 having a [repository of talk slides](https://github.com/python-in-astronomy/talk_slides) and a [list of packages discussed](https://github.com/python-in-astronomy/repo_list/blob/master/link_list.md) as well as an "unproceedings" document which would summarize
-the unconference sessions and eventually go on arxiv like [this one](LINK) from [dotastronomy](LINK).
+the unconference sessions and eventually go on arxiv like [this one](http://arxiv.org/abs/1301.5193) from [dotastronomy](http://dotastronomy.com/).
 
-To keep momentum going, we have started a number of mailing lists (LINKS HERE); we also talked about starting local user groups, 
+To keep momentum going, we have started a number of mailing lists on specific topics; we also talked about starting local user groups, 
 having regional conferences, and organizing a future meeting at a location TBD. 
 Ideas for how to improve the next version of the meeting included:
 
@@ -48,9 +48,9 @@ dancing astronomer who just behind the photographer. But we really did have a go
 ![Python in Astronomy 2015, credit: P. Teuben]({{ site.url }}/stuff/teuben_pyastro15.jpg)
 
 
-The afternoon unconference sessions included:
+The afternoon unconference sessions included a bunch of sessions at which people were too tired to take notes:
 
-* next steps for astropy [LINK]
+* next steps for astropy (E. Tollerud)
 
 * astropy: where next? (T. Robitaille)
 
