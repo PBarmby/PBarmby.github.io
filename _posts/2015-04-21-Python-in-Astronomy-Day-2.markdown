@@ -26,11 +26,11 @@ Several excited tweets about first pull requests! Here is [mine](https://github.
 Afternoon unconferences, session two:
 
 * "my first pull request" continued
-* FITS alternatives/replacements (M. Droettboom), notes [here]()
+* FITS alternatives/replacements (M. Droettboom), ASDF document [here](http://asdf-standard.readthedocs.org/en/latest/)
 * astro-Python educational resources (K. Cruz, P. Barmby), notes [here](https://docs.google.com/document/d/16C2zZ96A8pX6f_-cRyIPjW7MfGwH7B9J7CX9pO6fCwk/edit)
 
 Afternoon unconferences, session three:
 
-* getting started with Django (E. Gomez, M. Servillat), notes [here]()
-* generalized world coordinate systems (J Turner, N. Dencheva), notes [here]()
-* astropy tutorials (K. Cruz), notes [here](https://t.co/wc0Yfkyd55)
+* getting started with Django (E. Gomez, M. Servillat), 
+* generalized world coordinate systems (J Turner, N. Dencheva), repo [here](https://github.com/spacetelescope/gwcs)
+* astropy tutorials (K. Cruz), notes [here](https://docs.google.com/document/d/1tizh-wTiZX4fVtotFURuxfMNx3T-nonv0m-G-2SW2nM/edit)
