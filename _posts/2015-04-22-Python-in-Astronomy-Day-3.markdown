@@ -18,7 +18,7 @@ Afternoon unconferences, session one:
 * astropython.org reboot (T. Aldcroft, notes [here](https://docs.google.com/document/d/1jIgNreqR7EM7rD5fqCzzF1N9NA_8rwOS-aUX2dMwzQc/edit?pli=1#heading=h.zl59ytrsxwu))
 * credit for software development (E. Tollerud, tag #pyastrocred, notes [here](https://docs.google.com/document/d/1aXOQdM46gAGCJEt1LvF0zFHlq-mtaZ9HOgvOHD7gy00/edit?pli=1)). 
 
-I was at this last session and it spawned a quite interesting Twitter discussion which I will blog separately later, but if you can't wait, it starts [here](https://twitter.com/PBarmby/status/590850156804833281).
+I was at this last session and it spawned a quite interesting Twitter discussion which I will blog separately later, but if you can't wait, it starts [here](https://twitter.com/PBarmby/status/590850156804833281) and continues [here](http://ivory.idyll.org/blog/2015-software-as-a-primary-product-of-science.html).
 
 
 Afternoon unconferences, session two:
@@ -36,4 +36,4 @@ Afternoon unconferences, session three:
 
 We sang happy birthday again, for two participants this time! Hopefully most of us are better programmers than singers.
 Finally the conference dinner, which was great fun and featured ice cream with sparklers in it for dessert. As far as I know, no
-one's hair was lit on fire.
+one's hair was lit on fire. Pleased to report that I cycled back to the hotel afterwards, in the dark and wearing a skirt, and did not fall in any canals.
