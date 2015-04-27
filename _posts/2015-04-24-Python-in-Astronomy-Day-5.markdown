@@ -45,7 +45,7 @@ Ideas for how to improve the next version of the meeting included:
 Lastly before lunch we did the conference picture. If we look like we're all laughing it's because of the hilarious
 dancing astronomer who just behind the photographer. But we really did have a good time.
 
-![Python in Astronomy 2015, credit: P. Teuben]({{ site.url }}/stuff/teuben_pyastro15.jpg)
+![Python in Astronomy 2015, credit: P. Teuben]({{ site.url }}/stuff/teuben_conf.jpg)
 
 
 The afternoon unconference sessions included a bunch of sessions at which people were too tired to take notes:
