@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hashtag avalanche"
+date:   2015-06-19
+tags: science society
+comments: False
+---
+
+A couple of women-in-science issues have kept social media busy over the last month and a bit. (I know I'm a bit late to the party here, but I was on vacation and I find it hard to write blog posts on my phone.) I think both are interesting for what they say about the role of women in science and its connection to social media
+
+The first of the hashtag avalanches was [#girlswithtoys](https://twitter.com/hashtag/girlswithtoys). This one was sparked by an interview with a Caltech astronomer who said that many astronomers are really "boys with toys"  -- that is, they like playing with big machines at least as much as any other part of their jobs. The interviewer repeated the phrase twice, which led some people to wonder if there was some trolling happening. Once the interview was aired on NPR, the reaction was as one might expect: many were outraged at the implication that "science toys" were only for boys (see also [@LetToysBeToys](https://twitter.com/LetToysBeToys)). The hashtag #girlswithtoys, in which women scientists tweeted pictures of themselves at work, was born -- and some new Twitter stars like Western's own [@tanyaofmars](https://twitter.com/search?q=%40tanyaofmars), were made.
+
+The hashtagged pictures were great to see, and I hope inspiring to at least a few would-be scientists. The initial hashtag discussion had tsome discussion of the astronomer who made the initial remark, but it was relatively short-lived compared to the avalanche showing women scientists clearly taking great joy in their work. While I wish the initial comment had been "little kids with toys" --- the astronomer who said "boys with toys" should have known better --- then we wouldn't have gotten to see all of that joy. Some have argued that calling our research apparatus "toys" belittles the fact that scientists do Serious Work using Serious Amounts of Money, but I disagree; I think it is possible to take your work and responsibilities seriously while also enjoying them.
+
+The second hashtag avalanche, [#distractinglysexy](https://twitter.com/hashtag/distractinglysexy), came out of the ridiculous comments made by Tim Hunt about women in science, which don't even deserve to be repeated here. Again women scientists showed themselves at work, often in "unfeminine" clothes, locations, or poses. Again there is plenty of happiness to be seen in their faces. Compared to #girlswithtoys, the hashtag's name is more sarcastic, and it seems to me that there is more mockery involved in this discussion than the previous one. Certainly the consequences for the person who made the initial comments have been more serious, as I think they should be.
+
+There have been arguments that Twitter-storms like these are overreactions, that women in science are getting outraged over slights which don't mean anything and certainly weren't intended to be harmful. I disagree. I think the strength of reaction shows that many people are unwilling to let unhelpful comments go, or to accept that "but I didn't mean any harm" is a reasonable response to making comments that say to women (or any other group) "you're not welcome here". Sure, retweeting a tweet is less work than some other actions people might take in response to discrimination. But as a public statement, it is a way to make a small start towards making a difference; if people can start there, hopefully it paves the way for additional action.
+
