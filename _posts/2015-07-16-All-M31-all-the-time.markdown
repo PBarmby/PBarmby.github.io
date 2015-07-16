@@ -12,7 +12,7 @@ talk today about the research projects I am working on with my students. Here's 
 summary for posterity, an updated version of the research description on my (gee-I-should-really-update-it) 
 [webpage](http://www.physics.uwo.ca/~pbarmby/).
 
-I did my PhD thesis on the globular clusters of the Andromeda galaxy (M31), and although I have
+I did my PhD thesis on the globular clusters of [the Andromeda galaxy (M31)](http://coolcosmos.ipac.caltech.edu/cosmic_classroom/multiwavelength_astronomy/multiwavelength_museum/m31.html), and although I have
 done research on many (probably too many) other topics, I seem to keep coming back to M31.
 Why? I guess it's partly familiarity; it's a galaxy I know really well, and I like the feeling
 of knowing what's going on. But there's also the undeniable fact that it's the nearest big galaxy
