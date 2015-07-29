@@ -37,12 +37,13 @@ each row over all columns, in other words alon the horizontal direction.
 
 This lovely figure from the [Software Carpentry Python lesson](http://swcarpentry.github.io/python-novice-inflammation/) helps explain:
 
-![Completeness plot]({{ site.url }}/stuff/python-operations-across-axes.svg)
+![Operations across axes, via Software Carpentry]({{ site.url }}/stuff/python-operations-across-axes.svg)
 
 `histogram2d` constructs an array by the procedure describe above. 
 But the helpful information tells you that you can't just plot the resulting array as an image over the (x,y) data points, 
 because the array has the axes interchanged, and it starts at the upper left rather than lower.
 To plot the output of histogram2d with the data points, you have to either:
+
 * plot it as an image but accept that you get your `y` values on the horizontal axis
 * transpose it using `T` (see [Dave's Matplotlib Basic Examples](http://www.physics.ucdavis.edu/~dwittman/Matplotlib-examples/))
 * or rotate it and flip it along one axis (same as transposing; see [2-D Histogram](http://oceanpython.org/2013/02/25/2d-histogram/))
@@ -50,7 +51,7 @@ To plot the output of histogram2d with the data points, you have to either:
 I figured this out because I was trying to make a fancy plot with the 2-D histogram in the middle 
 and the associated 1-D histograms along its sides, a bit like 
 [this](http://www.astrobetter.com/blog/2014/02/10/visualization-fun-with-python-2d-histogram-with-1d-histograms-on-axes/),
-which is based on [this matplotlib example]http://matplotlib.org/examples/pylab_examples/scatter_hist.html
+which is based on [this matplotlib example](http://matplotlib.org/examples/pylab_examples/scatter_hist.html)
 The way to make the 1-D histograms is by summing
 the 2-D histogram along one of the axes. Summing on `axis=0` involves averaging each column along rows,
 so that should give you the number of objects as a function of your `y` variable, and summing on 
