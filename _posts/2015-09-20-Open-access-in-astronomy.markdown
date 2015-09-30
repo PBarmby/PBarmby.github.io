@@ -27,17 +27,17 @@ In astronomy we sidestep the open access debate to some extent: since our resear
 published in all of our journals is available on the free-to-access [arxiv](http://arxiv.org) system. Many of our journals also make published papers available after a certain embargo period, usually a few years.
  Some people have proposed that we don't even need the journals; arxiv is enough. Lots of words on this topic have been written already;  [Peter Coles' blog](https://telescoper.wordpress.com/category/open-access/) has some very good astronomy-specific discussion.
 
-Until then, however, how do you know which astronomy journals have which kinds of access or fees? I couldn't find a summary of this anywhere, so I decided to make my own. Below is what I was able to glean from the journals' webpages -- corrections are likely necessary and welcome! As far as I can tell, neither of Nature or Science offers an open-access option, which I found suprising.
+Until then, however, how do you know which astronomy journals have which kinds of access or fees? I couldn't find a summary of this anywhere, so I decided to make my own. Below is what I was able to glean from the journals' webpages -- corrections are likely necessary and welcome! As far as I can tell, neither of Nature or Science offers an open-access option, which I found suprising. 
 
 
-| Journal | Publisher (as of fall 2015) | Subscription fees? | Page charges | Open access fees| embargo|
+| Journal | Publisher (as of fall 2015) | Subscription fees? | Page charges | Open access fees**| embargo|
 | --------|-----------------------------|--------------------|--------------|-----------------|--------|
-| Astrophysical Journal|         AAS/IOP| Y                  | Aprx $100/pp | N/A             | 1-2yr  |
-| Astronomical  Journal|         AAS/IOP| Y                  | Aprx $100/pp | N/A             | 1-2yr  |
+| Astrophysical Journal|         AAS/IOP| Y                  | Aprx $90/pp | N/A             | 1yr  |
+| Astronomical  Journal|         AAS/IOP| Y                  | Aprx $90/pp | N/A             | 1yr  |
 | Pub. Ast. Soc. Pacific       |     ASP/U. Chicago Press| Y |       $110/pp        | N/A             | 1-2yr  |
 | Monthly Notices of the RAS  | RAS/Oxford| Y                | N/A          |  GBP1450 / $2550 / Eur2175 | 3yr|
 | Pub. Ast. Soc. Australia          |     ASA/Cambridge UP| Y  | N/A          | $2700           |     N/A|
-| Astronomy & Astrophysics* | EDP Sciences | Y                 | Eur100/pp | Eur400    |          1 yr |
+| Astronomy & Astrophysics* | EDP Sciences | Y                 | Eur100/pp* | Eur400*    |          1 yr |
 | Icarus |               Elsevier        |  Y                | N/A           | $2750    |   2 yr |
 | Science | AAAS  | Y         | N/A           | N/A  |   1yr | 
 | Nature |                       MacMillan | Y         | N/A           | N/A  |   N/A | 
@@ -49,14 +49,14 @@ Until then, however, how do you know which astronomy journals have which kinds o
 | Int Jrnl A&A |Scientific Research | N | N/A| $999 | N/A|
 |Galaxies | MDPI|    N | N/A| none in 2015 | N/A|
 
-*A&A is complex: page charges are waived if the paper has a European 1st author; there is no embargo for papers in the
-online sections (atomic, molecular, and nuclear data, astronomical instrumentation, catalogs and data, numerical methods and codes).
+*A&A is complex: page charges are waived if the paper has a European 1st author; there is no embargo or page charges for papers in the online sections (atomic, molecular, and nuclear data, astronomical instrumentation, catalogs and data, numerical methods and codes).
+** N/A in the open acess fees column means that, as far as I can tell, the journal does not offer an option for articles to be immediately open-access.
 
 The last few of these journals are ones you have probably never heard of. They are all relatively new and may not be reputable
 (I am sad that a journal with an awesome name like "Galaxies" appears to be in this category). I will be very interested to see whether
 the [Open Journal of Astrophysics](https://github.com/openjournals/theoj) gets off the ground as I think it really could be a new
 way of approaching scientific publishing.
 
-
+[Updated 2015-09-21 with a few minor changes to the table.]
 
 
