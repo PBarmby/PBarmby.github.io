@@ -42,9 +42,9 @@ have to mean shouting from the rooftops; it can be a few quiet words spoken in s
 Maybe it's easier to advocate for someone else, so one idea is to look around and see who is playing the game
 on a higher difficulty level than you: men, are your female colleagues being treated fairly?
 Straight people, find out how things are for your LGBTIQ colleagues; white people, for your visible minority
-colleagues, and so on.
+colleagues, and so on. After judgment, it's on us, the senior folks, to act.
 
-As horrible as this particular situation is, it would be even more horrible if the opportunity for
+And act we must. As horrible as this particular situation is, it would be even more horrible if the opportunity for
 change passes the community by. Janet Stemwedel eloquently [pointed this out yesterday](http://www.forbes.com/sites/janetstemwedel/2015/10/09/astronomy-community-mounts-stronger-response-in-sexual-harassment-case-than-uc-berkeley/), and
 as of this afternoon [more than 1500 astronomers agree](https://docs.google.com/spreadsheets/d/1q4oKqbMh4YplZkuBDs2VoUOL0xJQt-uVYwZ5-Fa_G0I/pubhtml). As Bryan Gaensler [pointed out](https://twitter.com/SciBry/status/653202650058608640), it hasn't exactly
-been a banner year for good behaviour in science. I can only hope this this is the year it starts to change.
+been a banner year for decent behaviour in science. We can only hope this this is the year it starts to change.
