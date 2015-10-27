@@ -11,7 +11,7 @@ Aren't you an astronomer, you ask? Why yes. But this journal has a nifty collect
 called ["10 Simple Rules"](http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01;jsessionid=B9FC1B5AD3661D2CC6F3C15947150DDD) and many are relevant far outside computational biology. 
 [Several](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004311) [astronomers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542) have published there before.
 
-The [paper](https://peerj.com/manuscripts/7296/)  is about how scientists should store digital data and I think it
+The [paper](https://peerj.com/preprints/1448/)  is about how scientists should store digital data and I think it
 has some interesting ideas. At least as interesting (to me, anyway), is the 
 the story of how this paper came to be. The discussion started out as a [GitHub issue](https://github.com/swcarpentry/site/issues/797) on [Software Carpentry](http://software-carpentry.org)'s
 site repo, prompted by [Greg Wilson's](http://third-bit.com) [query](http://lists.software-carpentry.org/pipermail/discuss_lists.software-carpentry.org/2015-February/002601.html) to the [Software Carpentry discuss email list](http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org). The issue had quite a bit of discussion and 22 participants.
@@ -36,7 +36,7 @@ code](https://github.com/emhart/10-simple-rules-data-storage/blob/master/manuscr
 Things slowed down over the summer, but by 
 mid-September things were mostly done and it was time for a [final push](https://github.com/emhart/10-simple-rules-data-storage/issues/74). We got things together, [congratulated ourselves](https://github.com/emhart/10-simple-rules-data-storage/issues/89),
 [figured out the author order](https://github.com/emhart/10-simple-rules-data-storage/issues/92),
-and put the thing on the [PeerJ Computer Science preprint server](https://peerj.com/manuscripts/7296/) 
+and put the thing on the [PeerJ Computer Science preprint server](https://peerj.com/preprints/1448/) 
 where it awaits comments before being submited to the journal. A few comments are already up
 and have been added to the GitHub [issues](https://github.com/emhart/10-simple-rules-data-storage/labels/Pre-Submission%20Revision).
 
