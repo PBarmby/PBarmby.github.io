@@ -44,4 +44,4 @@ This was a really interesting way to write a paper with a bunch of people that I
 via email and Twitter. At least a few of the authors [have met in person](https://twitter.com/jhollist/status/657524255253471232), though. We were all tolerably proficient at using Git and GitHub, so the pull-request model of making changes worked pretty well.
 It's neat to be able to trace the project history through the pull requests and issues, something that would be a lot trickier if one were trying to do it by following an email chain. I am looking forward to the next paper I write this way; it was fun to be involved in such a true collaborative effort.
 
-
+[v2: Edited to fix link to preprint.]
