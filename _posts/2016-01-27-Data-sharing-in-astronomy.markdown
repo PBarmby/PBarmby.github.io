@@ -49,9 +49,9 @@ Archives can account for a substantial fraction of the research done with a tele
 [12% for Keck](http://www.keckobservatory.org/recent/entry/nasa_honors_keck_observatory_for_opening_its_archive_to_the_public),
 to [close to half for Hubble](https://archive.stsci.edu/hst/bibliography/pubstat.html).
 
-Telescope archives usually contain raw data and some version of processed data. (It's not uncommon
+Telescope archives usually contain raw data and some version of processed data. It's not uncommon
 to reprocess data from an instrument multiple times, as understanding of its behaviour improves; 
-I think some of the [Spitzer](http://spitzer.caltech.edu) archive was reprocessed half a dozen times.)
+I think some of the [Spitzer](http://spitzer.caltech.edu) archive was reprocessed half a dozen times.
 The level of data that you get from a telescope archive is sometimes sufficient to perform science
 with immediately, and sometimes not -- it depends to some extent on how well-funded the archive and
 any associated data pipelines are.
