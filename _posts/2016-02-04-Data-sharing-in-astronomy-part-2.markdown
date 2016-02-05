@@ -15,7 +15,7 @@ datasets and other resources should work as a seamless whole."  So what exactly 
 is it a website you can use to download all the data from every telescope ever, on whatever piece of
 the sky you care about? Not so much. In fact there is not one virtual observatory but a 
 [whole bunch of them](http://www.ivoa.net/about/member-organizations.html) including
-[EuroVO](http://www.euro-vo.org/), [Canadian Virtual Observatory]http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/cvo/), [VO-India](http://vo.iucaa.ernet.in/~voi/) and many more. It's not totally clear to me what the
+[EuroVO](http://www.euro-vo.org/), [Canadian Virtual Observatory](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/cvo/), [VO-India](http://vo.iucaa.ernet.in/~voi/) and many more. It's not totally clear to me what the
 situation in the US is: the [USVAO](http://www.usvao.org) seems to have been succeeded by the [US VOA](https://hea-www.cfa.harvard.edu/USVOA/). Yes, astronomers love our acronyms..
 
 The [International Virtual Observatory Alliance](http://www.ivoa.net/), which has been around for
@@ -50,7 +50,7 @@ The bottom line for me is that, at least for me, the Virtual Observatory is not 
 of the tools look pretty promising and would undoubtedly improve my workflow. Others seems like they are
 a lot of talk and not much whiskey, as my grandmother would say.  While astronomers are in an enviable position
 as far as the availability of data, our system for gluing it all together (Alyssa Goodman calls this
-["Seamless Astronomy"](http://projects.iq.harvard.edu/seamlessastronomy/home) is still developing. 
+["Seamless Astronomy"](http://projects.iq.harvard.edu/seamlessastronomy/home)) is still developing. 
 I think we are getting there, but aren't quite there yet.
 
 
