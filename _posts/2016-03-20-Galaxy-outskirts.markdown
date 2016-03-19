@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astronomy for information scientists"
+title: "Galaxy outskirts"
 date: 2016-03-20
 tags: astronomy galaxies conference
 comments: True
@@ -48,8 +48,8 @@ publically-available [RAMSES]() code, to the [Stripe 87 Legacy Project]() and [D
 As I have said [before]({% post_url 2016-01-27-Data-sharing-in-astronomy %}), I think people who
 work on nearby galaxies are pretty good about sharing data, and the [Illustris]() simulation
 group seems to be as well. I had an interesting chat with B. Madore about the future
-of [NED](http://ned.ipac.caltech.edu), one avenue for data sharing that I think could be increasingly
-important.
+of [NED](http://ned.ipac.caltech.edu) --- it will be interesting to see where that particular
+avenue for data sharing goes.
 
 All in all, a good conference -- I met some new folks and renewed some old acquaintances, thought a lot
 about galaxies, and ate a lot of Spanish ham. Not a bad way to spend a week.
