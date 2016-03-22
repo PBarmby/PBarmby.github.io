@@ -34,7 +34,7 @@ Speaking of the next few years, the [JWST](http://www.stsci.edu/jwst/) launch is
 The last session of the conference brought home the fact that it's time to start thinking *now* about writing
 proposals for this telescope -- it has a limited lifetime and so it's important to maximize
 the use we get out of it. Some of the science program will be decided before launch, in the
-[next 18 months](http://www.stsci.edu/jwst/operations/proposals) or thereabouts, so it really is time to get going.
+[next 18 months](http://www.stsci.edu/jwst/science/ers) or thereabouts, so it really is time to get going.
 
 Here are science take-aways from the meeting. None of these are particularly brilliant
 insights, rather they are just themes that seemed to keep recurring.
