@@ -19,7 +19,7 @@ links to the paywalled [ProQuest version](http://search.proquest.com/docview/275
 So of course I figured I should upload mine to the collection. I still had all of the LaTeX files,
 but I needed to generate a PDF instead of the PostScript version I used to print it 15 years ago.
 Of course this took longer than I thought it would: as every LaTeX thesis writer knows, it's the
-figures that cause you the most grief. But eventually I succeeded and (here)[https://zenodo.org/record/49389]
+figures that cause you the most grief. But eventually I succeeded and [here](https://zenodo.org/record/49389)
 is the result.
 
 Looking through my thesis, there are some scary aspects. Like the figures, not exactly marvels of graphic design: I think I
