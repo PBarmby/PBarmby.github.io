@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Theses"
+date: 2016-04-08
+tags: science academia graduate
+comments: True
+---
+
+PhD theses are on my radar a lot lately: we think a lot about them on the
+[Graduate Education Council](http://grad.uwo.ca/faculty_staff/viceprovost/graduate_education_council.html),
+two of my graduate students are finishing theirs, 
+and an [Astronomy Thesis Collection](https://zenodo.org/collection/user-astrothesis) was recently
+started on [Zenodo](http://zenodo.org).
+
+I thought the thesis collection was a nifty idea: while a lot of astronomy
+theses are already indexed by the fantastic [NASA Astrophysics Data Service](http://www.adsabs.harvard.edu/),
+often they are not directly available via ADS. The record for my own thesis, for example,
+links to the paywalled [ProQuest version](http://search.proquest.com/docview/275827121).
+So of course I figured I should upload mine to the collection. I still had all of the LaTeX files,
+but I needed to generate a PDF instead of the PostScript version I used to print it 15 years ago.
+Of course this took longer than I thought it would: as every LaTeX thesis writer knows, it's the
+figures that cause you the most grief. But eventually I succeeded and (here)[https://zenodo.org/record/49389]
+is the result.
+
+Looking through my thesis, there are some scary aspects. Like the figures, not exactly marvels of graphic design: I think I
+went to the [Edward Tufte](http://www.edwardtufte.com/tufte/) seminar pretty late in
+my graduate career. My prose isn't fantastic either, although it's not terrible. Not too long
+after I defended, the first half of Chapter 5 became a
+[paper](http://iopscience.iop.org/article/10.1086/323457/meta), the only one I've ever
+been involved with that was accepted *without revision*. That also kind of scares me, but 
+the editor of the journal at the time was an expert on the topic, so presumably it's OK.
+The reference list is the final scary bit: just under 300 references, I think all typed into a 
+BibTeX file by hand, including a number of articles published in Russian for which 
+all I could read were the data tables (!)
+
+I am happy to say that a lot of what's in my thesis has been superseded by later work,
+particularly the [Revised Bologna Catalog](http://www.bo.astro.it/M31/). I am also happy that
+some of the clusters that my advisor and I discovered, and first described in the paper 
+linked above, are [cataloged](http://ned.ipac.caltech.edu/ui/?q=srcnom&acronym=%255BBH2001%255D&search_type=Look+Up+Name+Prefix) 
+with our names attached. John is no longer with us and it's nice to be involved in one
+small aspect of how his name and work will live on. Most of all, I am glad that I don't have to write another PhD thesis.
+One was certainly enough. If you are finishing yours, I hope you get to feel that way soon, too!
