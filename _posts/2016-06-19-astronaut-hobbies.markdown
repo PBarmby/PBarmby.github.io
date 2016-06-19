@@ -2,7 +2,7 @@
 layout: post
 title: "Astronaut hobbies"
 date: 2016-06-19
-tags: space 
+tags: space knitting fun
 comments: True
 ---
 
