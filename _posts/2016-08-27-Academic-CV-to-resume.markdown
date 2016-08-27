@@ -56,7 +56,7 @@ Since I had already filled out another web form with contact info, no need for o
     Performed astronomical research on galaxies using Hubble Space Telescope and ground-based telescopes
     Mentored undergraduate summer researchers
 
-(The line wrapping worked better on the web form). Here I attempted to describe what I do and/or have done in my faculty and staff scientist positions, with action verbs where possible. I didn't list every committee I'd ever been on, but tried to capture some of the more recent ones in the lists.
+(The line wrapping worked better on the web form). This section is longer than the corresponding CV one, because I attempted to describe, , with action verbs where possible, what I do and/or have done in my faculty and staff scientist positions. (An academic CV generally assumes that the reader knows what an academic in that field does.) I didn't list every committee I'd ever been on, but tried to capture some of the more recent ones in the lists.
 
     1995-2001 Teaching and Research Assistant, Harvard University Department of Astronomy
 
