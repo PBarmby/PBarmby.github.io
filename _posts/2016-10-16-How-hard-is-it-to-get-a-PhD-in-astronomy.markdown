@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "How hard is it to get a PhD in astronomy?"
+date:   2016-10-16
+tags: astronomy careers
+comments: True
+---
+
+I'm not much of a Redditor, but my spouse pointed me to [this post](https://www.reddit.com/r/Astronomy/comments/57hnzj/how_hard_is_it_to_get_a_phd_in_astronomy/) which asks, effectively, "could an average person get a PhD in Astronomy if they worked hard?" My answer: *Yes. You do not need to be a super-genius to get an astronomy PhD, but you do need to know what you're getting into.*
+
+Here I am very loosely defining the kind of "smarts" needed for astronomy as "ability to understand a complex problem and come up with solutions". You need to have at least some of this but I think it's a continuum of ability. People whom the rest of us might call geniuses are exceptional in the speed and depth at which they understand problems and the creativity of their solutions, but they are not some completely different kind of human. To do a PhD in astronomy you have to have enough smarts *and* grit to get through undergraduate courses in physics and math, but you don't need to be a genius at either one. In my opinion, the "cult of genius" which surrounds physics (and astronomy to a lesser extent) is Not A Good Thing.
+
+The questioner goes on to say "I'm more interested in the study of Celestial Bodies themselves [contrasting astronomy to physics]...I want to get a degree to teach the subject I love at a university." This is where the "know what you're getting into" part comes in. A PhD in astronomy, for the most part, is about training you to do research in astronomy, not to teach it [1]. And research in astronomy is about generating new knowledge via physics, either using the physics we already know about to understand how the universe works, or using the universe itself to learn more about physics. A PhD thesis about the star Vega isn't just a report on "here's everything we know about Vega": it has to attempt to improve our understanding of Vega by interpreting observations or theoretical models in the context of physics. It's entirely possible that an astronomy professor might never teach about the precise topic of her PhD thesis, because most teaching in astronomy is at the introductory level.
+
+Other answers to the question note that there are more astronomy PhDs granted than there are university faculty positions: a PhD is a necessary but not sufficient qualification. Permanent positions are not easy to get; competition is high and, with some exceptions, largely based on one's research record. So the questions a potential astronomy PhD student wants to be asking are "Do I want to do astronomy research for at least the next half-decade? Can I live with uncertainty, tedium, and a seeming lack of progress for months on end? Do I like or can I at least tolerate spending hours per day at a computer? Will I be satisfied with working in some other field after my PhD?" not "am I smart enough to do a PhD?" Compared to (say) medical school, grad school in astronomy is easier to get into but harder to finish. Grad school is very different from undergrad: there is much more independence and less structure and support. Not everyone thrives in such an environment, and there are good arguments about how grad schools *could* be more supportive, but that's another post.
+
+Can a "regular person" who works hard get a PhD in astronomy? Yes, I think so. But that regular person should go in with eyes open as to what a graduate degree will and won't do for them. Compared to what you might think, there is more physics and computing and less marveling at the universe. It's till the only place where you *can* get paid to marvel at the universe, though. So if your passion and determination can carry you through, then I think it's worth it.
+
+
+[1] Doing a PhD in astronomy education is closer to teaching, but it's still about training in education research.
