@@ -2,7 +2,7 @@
 layout: post
 title: "Pleaset don't be a DOOFAAS"
 date: 2016-12-07
-tags: astronomy research software data
+tags: astronomy research inclusivity
 comments: True
 ---
 
@@ -24,6 +24,7 @@ There are other, more recent examples which I won't dignify by mentioning.
 The [CASCA meeting Code of Conduct](http://astro.physics.umanitoba.ca/casca2016/index.php/code-of-conduct/) specifically notes that
 
 ```All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.```
+
 Other conferences have similar codes. So if you give your project a racy name, the organizers could (and should!) ask you not to mention it by name. This is probably not what you want.
 
 The next time you make up a project acronym, please think about the consequences. What messages does it send? Could you talk to a group of 12-year-olds about it without them giggling? How about your university president? There are plenty of ways to be creative without being exclusionary, so that people smile rather than grimace when they hear about your project. Please don't be a DOOFAAS. 
