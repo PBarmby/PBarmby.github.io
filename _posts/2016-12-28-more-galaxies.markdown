@@ -43,7 +43,7 @@ OK, so what did Conselice, Wilkinson, Duncan and Mortlock do? They combined the 
 Most of the paper is about the technical business of how to *integrate* the mass function, that is, how to sum up the
 number of observable galaxies and make the correction for the unobservable ones. The figure below shows the many different
 mass functions that the authors looked at and how they change for galaxies at different distances.  
-[Galaxy mass functions from Conselice et al 2016. Annotations mine.]({{ site.url }}/stuff/cwdm_fig1.png)
+![Galaxy mass functions from Conselice et al 2016. Annotations mine.]({{ site.url }}/stuff/cwdm_fig1.png)
 
 The major finding of the paper is that the number density of galaxies has decreased as the universe has gotten older.
 This is not entirely surprising --
@@ -53,7 +53,7 @@ The paper summarizes this work in another figure, which shows how many galaxies 
 deeply you look. They discuss the results in terms of the implications for
 [Olbers' Paradox](http://cmb.physics.wisc.edu/pub/tutorial/olbers.html), which is something you don't often see in
 otherwise-technical papers.
-[How many galaxies can we see? from Conselice et al 2016. Annotations mine.]({{ site.url }}/stuff/cwdm_fig8.png)
+![How many galaxies can we see? from Conselice et al 2016. Annotations mine.]({{ site.url }}/stuff/cwdm_fig8.png)
 
 The press coverage of this work didn't always capture what I thought was interesting about it, but overall it highlighted
 an interesting piece of work. There will be lots more to come in this field with the launch of the
