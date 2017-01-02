@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The strange world of the NSERC Discovery Grant"
-date: 2016-01-02
+date: 2017-01-02
 tags: astronomy research grants
 comments: True
 ---
