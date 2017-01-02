@@ -29,6 +29,7 @@ merit of the proposal, excellence of the researcher, and contributions to the tr
 It's not only what you say you'll do, but what you've already done (overall, not just in relation to the present proposal).
 This could be considered the "reporting requirement" for previous Discovery Grants:
 if you didn't do anything with your previous grant, it's hard to argue for continued funding.
+
 There is an entire section in the proposal in which the proposer must describe his or her "most significant contributions" to research, including how this research has contributed to the training of students and postdocs.
 It used to be that the marker of success in training was the fraction of trainees who went on in academia: prestigious postdocs, faculty positions, etc.
 [This is problematic for many reasons](http://www.universityaffairs.ca/opinion/speculative-diction/breaking-down-heqcos-latest-report-on-phd-careers/) and I'm told that at least some panelists interpret "successful" training more broadly.
@@ -42,6 +43,7 @@ researchers and avoids some of the randomness and time-wasting
 [associated with very low success rates](https://arxiv.org/ftp/arxiv/papers/1503/1503.04201.pdf).
 Like tenure applications, though, the cost of failure is high. Not holding a Discovery Grant, particularly in fields where there aren't many
 other funding sources, makes it difficult to do the research and training needed in order to successfully apply again.
+
 There is a direct relation between Discovery Grants and tenure as well.
 The first DG renewal application is often due the year before a tenure application, and failure to renew would likely not help a tenure case.
 Like tenure applications, DG applications are all about the *individual* researcher, so demonstrating independence and leadership are critical.
