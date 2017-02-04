@@ -45,10 +45,11 @@ stars ahead of the Sun in the direction of [galactic rotation](http://www.univer
 These two cases are important because they want the rocket to end up going in the same direction as the stars,
 so travelling to stars behind the Sun requires turning around at the end of the trip; see the figures below.
 
-![Trajectory for a rocket travelling to a star behind the Milky Way in Galactic rotation. The Galaxy rotaties clockwise in this view.]({{ site.url }}/stuff/flw_fig3.png)
+![Trajectory for a rocket travelling to a star behind the Milky Way in Galactic rotation. The Galaxy rotates clockwise in this view.]({{ site.url }}/stuff/flw_fig3.png)
 ![Close up of above trajectory, at beginning (left) and end (right).]({{ site.url }}/stuff/flw_fig4.png)
 
-Figures 3 and 4 from [Fung, Lewis, and Wu](https://arxiv.org/abs/1702.00030), showing trajectory for a trip to a star behind the Milky Way in Galactic rotation.
+Figures 3 and 4 from [Fung, Lewis, and Wu](https://arxiv.org/abs/1702.00030), showing trajectory for a trip to a star behind the Milky Way in Galactic rotation. The Galaxy rotates clockwise in this view. The bottom figure is a close-up of the beginning (left)
+and end (right) of the trajectory.
 
 The authors find that the genetic algorithm works, although it's more difficult to get good solutions for trips to stars in the Milky
 Way halo. The speeds for the optimum trajectories are less than about 20% of the speed of light, which means that the effects of the
