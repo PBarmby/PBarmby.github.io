@@ -31,6 +31,7 @@ I have also seen some things that I wouldn't recommend anyone do. The first two 
 [Here](https://www.theguardian.com/higher-education-network/blog/2013/nov/01/academic-cv-job-10-mistakes) is a nice list of more CV mistakes.
 
 Finally, some things I am on the fence about including:
+
 * publication metrics (h-index, journal impact factors, etc). These aren't easily comparable between fields, and some people argue that
 they are a poor measure of scientific quality.
 * pithy quotes about your approach to science. While these can be amusing, they are another distraction, and I think you run the risk of being seen as too flippant or smart-alecky.
