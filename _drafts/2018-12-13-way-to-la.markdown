@@ -1,0 +1,7 @@
+---
+layout: post
+title: "On the way to LA"
+date: 2018-12-13
+tags: astronomy arxiv
+comments: True
+---
