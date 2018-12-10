@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Trip report: Victoria"
+date: 2018-12-10
+tags: academia administration physics astronomy
+comments: True
+---
+
+Going to be travelling quite a bit in the next few months, so "trip report" seems like a good way to bring back the blog.
+
+I was in Victoria to chair a committee reviewing the [UVic Physics and Astronomy](https://www.uvic.ca/science/physics/)
+department. In Canada, universities and their academic programs are not usually
+accredited by external agencies, except for professional programs like library
+and information sciences or engineering. So the purpose of this kind of external
+review is for some outsiders to come in and look at what a department or faculty
+does,  including how it relates to the rest of the university, highlight strengths, and
+make suggestions for improvement. Since many members of a university department
+can be there a long time, it is easy to slip into doing things a particular way
+"because it's always been that way." An outsider's perspective can be very
+helpful in providing impetus for a department or program to re-examine how and
+why it does things and whether that needs to change. I've most commonly seen the
+situation where the review committee is two people in the same academic area
+from other universities and one person from within the university but a different
+area.
+
+At Western, we review [undergraduate](https://www.uwo.ca/pvp/vpacademic/iqap/undergraduate_program/cyclical_program_reviews/index.html) 
+and [graduate](https://www.uwo.ca/pvp/vpacademic/iqap/graduate_programs/cyclical_program_reviews/index.html) programs every 8 years.
+Sometimes these are coordinated so that a department will have reviews of all its programs at once, sometimes not.
+We also review departments and faculties as part of the process of appointing
+or re-appointing department chairs and deans. This can end up being a lot of
+reviews. I'm told that UVic does not do the appointment-related type of review.
+
+The first step in a review like this is often a "self-study" in which the
+program being reviewed assembles information about itself. This can include a
+listing of courses and students taught, faculty and staff and their roles, and
+sometimes performance indicators such as rankings or student surveys. The next
+step is a site visit in which the reviewers visit the department, speak with
+members of different groups (students, staff, faculty, university administration),
+tour relevant facilities, and discuss initial impressions. Then they distill all
+of this information into a report, which is supposed to inform both the
+department members and university administration. These reports may be made
+available to all members of the department. Since they are supposed to be frank
+and therefore may contain constructive criticism,  they are not usually completely
+public (although UVic makes summaries [available](https://www.uvic.ca/vpacademic/resources/howto/review-academic/index.php)).
+
+The Victoria trip at the end of November was for the site visit. Before visiting, I had read the self-study document, 
+and I had some initial questions for department members, and I briefly discussed them with the other committee members.
+While in Victoria we had two solid days of meetings with all of the groups; the department did a great job of organizing
+meetings and travel, feeding us cookies and coffee, etc. But there is no way that this isn't going to be exhausting - as a reviewer you 
+are trying to listen very carefully both to what people say and what they don't say, assimilating huge amounts of 
+information (I took 20 pages of notes!), and getting just enough time to reflect on what you hear. 
+We had an exit meeting with some of the administrators so that we could give them a preliminary version of our conclusions and ask any
+last-minute questions.
+
+It was really interesting to see how a Physics & Astronomy department of about the same size to my own operates.
+There are some differences because of how universities in different provinces work and because their research
+areas are not the same as ours, but lots of similarities as well. Both departments do the bulk of their teaching in service courses
+(e.g., physics for engineers, astronomy for non-scientists), with small-ish upper-year undergraduate and graduate courses.
+Finding enough faculty to teach all the desired courses, enough staff to support teaching and research, and enough money for research
+and graduate funding, seem to be fairly universal challenges in lots of academic departments.
+
+After the formal meetings were done, the committee figure out who was going to write what pieces of our final report.
+It's important to do this relatively soon, before memory fades: 6 weeks is a typical timeline.
+I introduced one of my colleagues to Google Docs for collaborative writing! Now we just have to get it done: 
+I wrote some of my sections on the plane on the way home, but some iteration with the rest of
+the committee will be needed. Hopefully we'll have a solid draft before the winter break and finish it off in January, and give
+the university and department some helpful advice.
+
+
