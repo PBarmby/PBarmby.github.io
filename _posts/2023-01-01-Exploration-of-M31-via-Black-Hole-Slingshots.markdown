@@ -13,7 +13,8 @@ Arxiv is a ‘preprint server’, where academic papers are posted pre-publicati
 Arxiv postings are moderated to some degree, such that not every garage cosmologist can post their alternative theory of the universe there.  As far as I can tell, this is a serious paper, written by a serious astrophysicist, even if the topic is not what serious astrophysicists usually write about. (The arxiv listing doesn’t state whether the paper has been submitted for publication.) Gould asks what it might take to send a spacecraft to another galaxy, arguing that
 > such “impractical” intellectual exercises can have quite practical effects, both in
 > stimulating ideas to achieve more prosaic aims and in framing our perspective on how to focus present resources.
-> 
+
+
 The paper discusses the specific example of travel to M31, which at a distance of about 2.5 million light years is the nearest large galaxy to our own Milky Way. 
 
 Gould begins by reminding the reader about the slingshot mechanism (also called a [gravity assist](https://solarsystem.nasa.gov/missions/cassini/mission/gravity-assists/)), commonly used to speed up and redirect spacecraft. If you really want to speed up a spacecraft, you want to slingshot it not around a planet but around a black hole, and in particular the biggest one that we know of nearby, namely the one at the centre of the Milky Way, [Sgr A*](https://www.quantamagazine.org/black-hole-image-reveals-sagittarius-a-20220512/). To get your spacecraft going in the right direction, you have to send it toward the black hole at exactly the right angle, and to do _that_ with Sgr A* requires having the spacecraft first encounter another, smaller, black hole to fine-tune its orbital motion. Lots of small black holes with masses comparable to those of the Sun (compared to supermassive black holes which are millions or billions of times larger) are known in our galactic neighborhood, so it’s reasonable to assume there are some near Sgr A*.
@@ -28,7 +29,8 @@ Gould discusses various options for exploring M31 (about which more later) that 
 
 The next section discusses other options for sending a spacecraft to M31. As a thought experiment, Gould considers a spacecraft that accelerates for the first half of the trip and decelerates for the second half, reaching a speed very close to the speed of light. Time dilation gets involved, so onboard the spacecraft only about 30 years pass. Besides “prodigious fuel requirements” -- he calculates that the non-fuel spaceship mass would be a trillionth of the fuel mass (!!) -- Gould notes that
 >problems (besides inventing the engine) include keeping teratons of fuel (likely antimatter) stable during the 30-year voyage
->
+
+
 (No kidding.) The point of this calculation and of the gravitational slingshot calculation is to demonstrate that travel to M31 is, if not currently technically possible, then at least physically feasible, and it could occur over a timescale that’s short compared to the age of the Earth and of Sun-like stars. This timescale leads to the 'intergalactic imperative' that Gould discusses at the end of the paper.
 
 This is a clearly-wrtten paper whose tone and technical level indicate to me that the intended audience is people with at least some undergraduate or education in astrophysics. There's quite a change when Gould reaches the much more speculative “intergalactic imperative” sections at the end, and I’ll discuss these sections in a future post.
